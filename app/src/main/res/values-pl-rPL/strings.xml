@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Project</string>
+    <string name="welcome_message">Witamy!</string>
+    <string name="email_address">Adres email</string>
+    <string name="password">Hasło</string>
+    <string name="set_photo_recognition">Rozpoznawanie twarzy</string>
+    <string name="set_voice_recognition">Rozpoznawanie głosu</string>
+    <string name="register_now">Zarejestruj!</string>
+</resources>
